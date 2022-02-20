@@ -15,7 +15,7 @@ app.use(
     origin: [
       "http://localhost:3000",
       "https://kind-goldwasser-fac280.netlify.app",
-      "https://sidarthjaitly.netlify.app/",
+      "https://sidarthjaitly.netlify.app",
       "http://localhost:3001"
     ]
   })
